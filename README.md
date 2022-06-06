@@ -3,6 +3,8 @@
 
 **gorygithubaccount/gorygithubaccount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[Please read my personal profile](https://gorygithubaccount.github.io/gorygithubaccount/)
+
 Here are some ideas to get you started:
 
 # 🔭 I’m currently working on National Centeral University
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 ### 📫 How to reach me: 09xxxxxxxx
 ### 😄 Emotion: Happy
 ### ⚡ Fun fact: Eat
+
 
